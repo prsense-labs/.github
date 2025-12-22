@@ -1,7 +1,9 @@
-
 # PRSense-Labs
 
 Welcome to **PRSense-Labs** — the home for cutting-edge experiments in semantic Pull Request detection, automatic attribution, and developer-first automation tools.
+
+**Mission:**  
+Build trustworthy tools that give repositories memory — reducing duplicate work while preserving contributor credit.
 
 This organization hosts projects that help developers, maintainers, and teams:
 
@@ -9,6 +11,8 @@ This organization hosts projects that help developers, maintainers, and teams:
 - Preserve credit for original contributors
 - Reduce manual review effort
 - Prototype AI-assisted developer tools
+
+**Status:** Experimental · Open Source · Developer-First
 
 ---
 
@@ -36,9 +40,20 @@ This organization hosts projects that help developers, maintainers, and teams:
 ## 🔹 Why PRSense-Labs?
 
 - **Innovation-first** — explore experimental features safely
-- **Developer-focused** — tools built for maintainers and contributors
+- **Developer-focused** — built for maintainers and contributors
 - **Scalable** — designed to handle millions of PRs across repositories
-- **Open-source** — all projects are free to use and contribute
+- **Open-source** — transparent, auditable, and community-driven
+
+---
+
+## 🔹 What We Don’t Do
+
+PRSense-Labs tools are designed to assist humans, not replace them.
+
+We do not:
+- Block or auto-close pull requests
+- Judge code quality
+- Replace maintainer decisions or code review
 
 ---
 
@@ -47,7 +62,7 @@ This organization hosts projects that help developers, maintainers, and teams:
 1. Browse the repositories under this org.
 2. Star the projects you care about.
 3. Clone and experiment locally or contribute.
-4. Check the documentation in each repo for usage.
+4. Check the documentation in each repo for usage details.
 
 ---
 
