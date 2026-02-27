@@ -1,8 +1,8 @@
 # PRSense-Labs
 
-Welcome to **PRSense-Labs** — the home for cutting-edge experiments in semantic Pull Request detection, automatic attribution, and developer-first automation tools.
+Welcome to PRSense-Labs — the home for cutting-edge experiments in semantic Pull Request detection, automatic attribution, and developer-first automation tools.
 
-### Mission:
+**Mission:**
 Build trustworthy tools that give repositories memory — reducing duplicate work while preserving contributor credit.
 
 This organization hosts projects that help developers, maintainers, and teams:
@@ -11,16 +11,16 @@ This organization hosts projects that help developers, maintainers, and teams:
 - Reduce manual review effort
 - Prototype AI-assisted developer tools
 
-**Status**: Experimental · Open Source · Developer-First
+**Status:** v1.0.2 · Open Source · Developer-First
 
 ---
 
-## 🔹 Core Projects
+## Core Projects
 
 ### PRSense
 - Semantic duplicate PR detection
 - Automatic attribution comments
-- Includes: **CLI** & **Embeddings Dictionary**
+- Includes: CLI & Embeddings Dictionary
 - Fast & scalable for GitHub-scale repositories
 
 ### PRSense-VSCode
@@ -34,7 +34,7 @@ This organization hosts projects that help developers, maintainers, and teams:
 
 ---
 
-## 🔹 Why PRSense-Labs?
+## Why PRSense-Labs?
 - **Innovation-first** — explore experimental features safely
 - **Developer-focused** — built for maintainers and contributors
 - **Scalable** — designed to handle millions of PRs across repositories
@@ -42,8 +42,9 @@ This organization hosts projects that help developers, maintainers, and teams:
 
 ---
 
-## 🔹 What We Don’t Do
-PRSense-Labs tools are designed to **assist humans, not replace them**.
+## What We Don’t Do
+
+PRSense-Labs tools are designed to assist humans, not replace them.
 
 We do not:
 - Block or auto-close pull requests
@@ -52,7 +53,7 @@ We do not:
 
 ---
 
-## 🔹 Get Started
+## Get Started
 - Browse the repositories under this org.
 - Star the projects you care about.
 - Clone and experiment locally or contribute.
@@ -60,9 +61,5 @@ We do not:
 
 ---
 
-## 🔹 Topics / Tags
+## Topics / Tags
 `AI`, `GitHub Apps`, `duplicate-detection`, `semantic-search`, `developer-tools`, `PR-review`, `open-source`
-
-
-
-
