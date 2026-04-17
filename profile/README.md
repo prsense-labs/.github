@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".github/profile/prsense-labs.png" alt="PRSense Labs" width="100" />
+  <img src=".[github/profile/prsense-labs.png](https://github.com/prsense-labs/.github/blob/main/profile/prsense-labs.png)" alt="PRSense Labs" width="100" />
   <h1>PRSense Labs</h1>
   <p>The omniscient memory engine for your repositories.</p>
   <p>
