@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="prsense-labs.png" alt="PRSense Labs" width="100" />
   <h1>PRSense Labs</h1>
   <p>The omniscient memory engine for your repositories.</p>
   <p>
