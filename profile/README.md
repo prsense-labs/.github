@@ -1,65 +1,62 @@
-# PRSense-Labs
+<div align="center">
+  <h1>PRSense Labs</h1>
+  <p>The omniscient memory engine for your repositories.</p>
+  <p>
+    <a href="https://prsense.dev">Website</a> &nbsp;・&nbsp;
+    <a href="https://prsense.dev/docs">Documentation</a> &nbsp;・&nbsp;
+    <a href="https://github.com/prsense-labs">Community</a>
+  </p>
+  <br />
+</div>
 
-Welcome to PRSense-Labs — the home for cutting-edge experiments in semantic Pull Request detection, automatic attribution, and developer-first automation tools.
+## Mission 
 
-**Mission:**
-Build trustworthy tools that give repositories memory — reducing duplicate work while preserving contributor credit.
+**Build trustworthy tools that give repositories memory — reducing duplicate work while preserving contributor credit.** 
 
-This organization hosts projects that help developers, maintainers, and teams:
-- Detect duplicate PRs before merging
-- Preserve credit for original contributors
-- Reduce manual review effort
-- Prototype AI-assisted developer tools
-
-**Status:** v1.0.2 · Open Source · Developer-First
-
----
-
-## Core Projects
-
-### PRSense
-- Semantic duplicate PR detection
-- Automatic attribution comments
-- Includes: CLI & Embeddings Dictionary
-- Fast & scalable for GitHub-scale repositories
-
-### PRSense-VSCode
-- AI-powered duplicate PR detection in VS Code
-- Real-time alerts before you push
-- Dedicated sidebar and status bar integration
-
-### PRSense-Analytics
-- Metrics dashboards for duplicate detection
-- Track maintainers’ efficiency and PR overlap
+PRSense Labs provides the infrastructure to stop redundant engineering execution. We build the semantic memory layer that connects your global engineering teams, preventing duplicate Pull Requests before they are merged.
 
 ---
 
-## Why PRSense-Labs?
-- **Innovation-first** — explore experimental features safely
-- **Developer-focused** — built for maintainers and contributors
-- **Scalable** — designed to handle millions of PRs across repositories
-- **Open-source** — transparent, auditable, and community-driven
+## Featured Projects
+
+| Repository | Description | Status |
+| :--- | :--- | :--- |
+| **[prsense](https://github.com/prsense-labs/prsense)** | The core semantic engine and CLI for PR duplicate detection. | `Stable` |
+| **[prsense-vscode](https://github.com/prsense-labs/prsense-vscode)** | Real-time duplicate PR detection inside Visual Studio Code. | `Beta` |
+| **[prsense-analytics](https://github.com/prsense-labs/prsense-analytics)** | Enterprise tracking for maintainer efficiency and PR overlap. | `Alpha` |
+| **[dashboard](https://github.com/prsense-labs/dashboard)** | Managed Cloud Dashboard, Impact Scoring, and Smart Triage. | `Stable` |
 
 ---
 
-## What We Don’t Do
+## Engineered for Scale
 
-PRSense-Labs tools are designed to assist humans, not replace them.
-
-We do not:
-- Block or auto-close pull requests
-- Judge code quality
-- Replace maintainer decisions or code review
-
----
-
-## Get Started
-- Browse the repositories under this org.
-- Star the projects you care about.
-- Clone and experiment locally or contribute.
-- Check the documentation in each repo for usage details.
+* **Repository Memory Engine**: Vector-index every PR, issue, and discussion to provide instant, organization-wide semantic recall.
+* **Instant CI/CD Blocking**: Block duplicate engineering natively inside your Pull Request status checks before code is merged.
+* **Automated Risk Triage**: Dynamically score PR impact and route complex architectural changes to the original authors.
+* **Enterprise BYOK Security**: Bring Your Own Key or use local ONNX node embeddings. We never train on your proprietary codebase.
+* **Cross-Repo Radar**: Detect overlapping work not just in one project, but across your entire global organization.
 
 ---
 
-## Topics / Tags
-`AI`, `GitHub Apps`, `duplicate-detection`, `semantic-search`, `developer-tools`, `PR-review`, `open-source`
+## Ecosystem
+
+Choose the integration that natively fits your engineering workflow:
+
+* **CI/CD** (GitHub Action): Surfaces relevant history on every PR automatically.
+* **Local Dev** (VS Code): Recall history while you type in your local environment.
+* **Terminal** (CLI): Index and query your repo directly via npm.
+* **Microservice** (Docker): Run as a standalone REST API.
+
+---
+
+## Open Source Philosophy
+
+**PRSense is an Enforcer, not a coding assistant.** 
+
+We do not generate code. We do not judge syntax or formatting rules. We strictly map semantic engineering flow, automate high-risk triage, and detect architectural drift. Your engineering history never leaves your VPC to train public foundational models.
+
+<br />
+
+<div align="center">
+  <sub>Copyright © 2026 PRSense Labs. Open Source. Developer First.</sub>
+</div>
