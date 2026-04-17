@@ -24,7 +24,6 @@ PRSense Labs provides the infrastructure to stop redundant engineering execution
 | **[prsense](https://github.com/prsense-labs/prsense)** | The core semantic engine and CLI for PR duplicate detection. | `Stable` |
 | **[prsense-vscode](https://github.com/prsense-labs/prsense-vscode)** | Real-time duplicate PR detection inside Visual Studio Code. | `Beta` |
 | **[prsense-analytics](https://github.com/prsense-labs/prsense-analytics)** | Enterprise tracking for maintainer efficiency and PR overlap. | `Alpha` |
-| **[dashboard](https://github.com/prsense-labs/dashboard)** | Managed Cloud Dashboard, Impact Scoring, and Smart Triage. | `Stable` |
 
 ---
 
